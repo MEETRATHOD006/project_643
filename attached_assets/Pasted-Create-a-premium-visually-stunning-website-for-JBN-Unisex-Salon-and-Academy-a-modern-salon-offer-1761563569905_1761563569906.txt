@@ -1,0 +1,97 @@
+Create a premium, visually stunning website for “JBN Unisex Salon and Academy”, a modern salon offering professional hair, beauty, and grooming services for men and women, along with expert salon training courses.
+
+🎨 Design Goals:
+
+Make it luxurious, modern, and emotionally engaging.
+
+Focus heavily on visual showcasing — large images, elegant videos, smooth animations, and minimal text.
+
+Use before-and-after sliders to highlight real transformations.
+
+Include soft pastel tones mixed with elegant blacks and golds for a classy, unisex appeal.
+
+Use smooth scroll effects, parallax motion, and subtle transitions using GSAP-style animation.
+
+🧩 Essential Sections (in order):
+
+Hero Section:
+
+Full-width video/image background of real salon work.
+
+Text overlay: “Where Style Meets Confidence — JBN Unisex Salon and Academy.”
+
+A single CTA button: “Book Your Look.”
+
+Before & After Showcase:
+
+Interactive slider showing haircuts, makeovers, and skin treatments.
+
+Optional carousel view for multiple transformations.
+
+Our Expertise:
+
+3D-style service cards with hover animations.
+
+Categories: Hair Styling, Beauty, Makeup, Grooming, Academy Courses.
+
+Gallery Section:
+
+Masonry grid layout of real client work.
+
+Clickable lightbox for enlarged view.
+
+Option for short video reels.
+
+About JBN:
+
+High-quality portrait of the team or founder.
+
+Short story text (2–3 lines): passion for beauty, confidence, and training excellence.
+
+Academy Section:
+
+Focused on salon courses, certifications, and student success stories.
+
+Carousel of before-after student work.
+
+Client Reviews:
+
+Modern testimonial slider with client photos.
+
+Soft background gradient and quote animation.
+
+Book Appointment Section:
+
+Minimal booking form (Name, Service, Date, Phone).
+
+Integration with WhatsApp or direct call.
+
+Contact & Location:
+
+Embedded Google Map.
+
+Social links (Instagram, WhatsApp, YouTube).
+
+Opening hours in card format.
+
+🌟 Additional Features:
+
+Floating “Book Now” button (bottom right).
+
+Sticky top navbar with elegant hover underline.
+
+Mobile-responsive, fast-loading.
+
+Use soft transitions and scrolling reveal animations.
+
+SEO-ready meta content for “Salon in [Your City]”, “Beauty Academy”, “Hair & Makeup Studio”.
+
+⚙️ Tech Stack (if coding):
+
+Vite + React + Tailwind CSS
+
+GSAP for animations
+
+Before/after slider with React Compare Image or SwiperJS
+
+Lazy-loaded images for performance
